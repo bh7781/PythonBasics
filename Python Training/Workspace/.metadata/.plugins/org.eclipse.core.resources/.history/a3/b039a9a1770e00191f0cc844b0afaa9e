@@ -1,0 +1,7 @@
+def add():
+    print('Inside add')
+    return 'hello'
+
+print(add())
+
+def add(num1, num2, num3 = 0):

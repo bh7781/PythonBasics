@@ -1,0 +1,14 @@
+try:
+    ans = 10 / 0
+    print(ans)
+except:
+    print('Exception occurred in division')
+    
+    
+print('Out of try-except block')
+
+try:
+    name = 'Chinmay'
+    print(ans)
+except:
+    print('Exception occurred')

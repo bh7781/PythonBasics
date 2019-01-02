@@ -1,0 +1,15 @@
+myset = {10, 20, 450, 10, 23, 20}
+print(myset)
+print(type(myset))
+
+myset.add(244)
+print(myset)
+
+
+print(30 in myset)
+
+# for val in myset : 
+#     print(val)
+    
+
+print(myset.remove(10))
