@@ -3,24 +3,41 @@
 C:\Chinmay\PythonBasics\Python Training\Workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Day1\com.python.pydev.analysis\v2_indexcache
 dictionary|1546423015662188000|C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\dictionary.py
 set|1546422434325359000|C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\set.py
+ExceptionHandling|1546428540333214000|C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\ExceptionHandling.py
+List|1546489582311982000|C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\List.py
 funtions|1546424928843246000|C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\funtions.py
+demo|1546489582311982000|C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\demo.py
 -- END DISKCACHE
 -- START DICTIONARY
-6
-4=dictionary
-6=set
-3=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\dictionary.py
+12
+3=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\demo.py
+8=dictionary
+12=set
+9=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\List.py
+6=ExceptionHandling
+7=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\dictionary.py
 2=funtions
+5=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\ExceptionHandling.py
+10=List
 1=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\funtions.py
-5=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\set.py
+4=demo
+11=C:\Chinmay\PythonBasics\Python Training\Workspace\Day1\set.py
 -- END DICTIONARY
 -- START TREE 1
-5
+13
 add|1|add!1^1#5*18@
+ani|1|Anilinfo!3^41#1*35@
+ans|1|ans!5^2#5*51@
+dat|1|data!3^10#1*35@
 fun|2|func!1^9#5*18@func1!1^15#5*18@
-inf|1|info!3^5#1*35@
-mys|1|myset!5^1#1*51@
-set|2|set1!5^18#1*51@set2!5^20#1*51@
+inf|2|info!3^9#1*35@info!7^5#1*67@
+l3|1|l3!9^46#1*83@
+l4|1|l4!9^57#1*83@
+myi|1|myinfo!3^17#1*35@
+myl|2|mylist!9^5#1*83@mylist2!9^9#1*83@
+mys|1|myset!11^1#1*99@
+nam|2|name!3^8#1*35@name!5^11#5*51@
+set|2|set1!11^18#1*99@set2!11^20#1*99@
 -- END TREE
 -- START TREE 2
 0
